@@ -3622,7 +3622,7 @@ Menu Bar CSS
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-left: 80px
+
 }
 .header__area-menubar-left-logo a {
   display: inline-block;
@@ -10394,6 +10394,7 @@ Conbix Contact CSS
 Contact Page CSS
 ==========================================================================*/
 .contact__page {
+  margin-top: -150px;
   position: relative;
   z-index: 2;
 }
