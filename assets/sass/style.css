@@ -4696,7 +4696,7 @@ Banner Two CSS
   position: relative;
 }
 .banner__two-image {
-  background-position: center;
+  background-position: 50% 60%;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
