@@ -8268,6 +8268,14 @@ Project CSS
   position: relative;
   z-index: 1;
 }
+
+.img-custom {
+  width: 410px;
+  height: 450px;
+  object-fit: cover;
+}
+
+
 .project__area-item img {
   width: 100%;
 }
